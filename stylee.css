@@ -1,0 +1,20 @@
+.heading{
+	width: 60%;
+	text-align: center;
+	color: rgb(255, 255, 255);
+}
+.heading h1{font-size: 40px;
+}
+.heading a{
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+	font-size: 25px;
+	font-weight: bold;
+	border-radius: 60px;
+	padding: 14px 50px;
+	background-color: rgba(66, 22, 224, 0.881);
+}
+.heading a:hover{
+	letter-spacing: 3px;
+	transition: 0.6s;
+}
