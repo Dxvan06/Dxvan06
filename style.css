@@ -3,8 +3,14 @@
 	margin: 0px;
 	box-sizing: border-box;
 	list-style: none;
-	font-family: 'Poppins', sans-serif;
+	font-family: 'Poppins', sans-serif;	
 }
+           const resizeOps = () => {
+          document.documentElement.style.setProperty("--vh", window.innerHeight * 0.01 + "px");
+};
+
+         resizeOps();
+         window.addEventListener("resize", resizeOps);
 .navbar{
 	width: 100%;
 	height: 80px;
