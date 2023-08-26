@@ -3,22 +3,13 @@
 	margin: 0px;
 	box-sizing: border-box;
 	list-style: none;
-	font-family: 'Poppins', sans-serif;	
+	font-family: cursive;
 }
-           const resizeOps = () => {
-          document.documentElement.style.setProperty("--vh", window.innerHeight * 0.01 + "px");
-};
-
-         resizeOps();
-         window.addEventListener("resize", resizeOps);
-		    html, body {
-        height: 100vh;
-           height: calc(var(--vh, 1vh) * 100);
-           }
 .navbar{
+	animation: 3s ease-in 1s infinite reverse both running slidein;
 	width: 100%;
-	height: 80px;
-	background-color: #fee;
+	height: 70px;
+	background-color: rgb(119, 72, 160);
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
@@ -41,7 +32,7 @@
 } 
 .signup a{
 	text-decoration: none;
-	color: #000;
+	color: hsl(102, 70%, 71%);
 	font-size: 18px;
 	font-weight: bold;
 	border-radius: 12px;
@@ -119,11 +110,11 @@
 	height: 50px;
 	display: flex;
 	justify-content: space-around;
-	align-items: center;
+	align-items:  stretch;
 }
 .footer a{
 	text-decoration: none;
-	color: green;
+	color: rgb(220, 123, 242);
 	font-size: 18px;
 	font-weight: bold;
 }
@@ -131,6 +122,10 @@
 	text-decoration: underline;
 	transition: 0.4s;
 }
+
+
+
+
 
 
 
