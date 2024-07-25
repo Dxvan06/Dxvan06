@@ -31,11 +31,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, specifically i
 - **Operating Systems**: Kali Linux
 - **Capture The Flag (CTF)**: Active participant in CTF challenges
 
-
-## 🎓 Education
-
-- Ongoing education through various courses, meetups, and CTF challenges
-
+ 
 ## 🏆 Achievements
 
 - Regular attendee of hacking and technology meetups
