@@ -1,6 +1,6 @@
 # Hi there, I'm Devan Muthappa 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat&label=Profile+Views&count=100)
 
 Welcome to my GitHub profile! I'm passionate about cybersecurity, specifically in Vulnerability Assessment and Penetration Testing (VAPT). Here, you'll find my projects, scripts, and contributions related to network security and ethical hacking.
 
