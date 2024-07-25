@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity, specifically i
 - **Capture The Flag (CTF)**: Active participant in CTF challenges
 
  
-## 🏆 Achievements
+##  Active In
 
 - Regular attendee of hacking and technology meetups
 - Active participant in various CTF challenges organized by different organizations
